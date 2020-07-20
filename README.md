@@ -1,9 +1,9 @@
-https://github.com/swapnadeepmohapatra/swapnadeepmohapatra/blob/master/SwapnadeepGitHubArt.png
+
+[![SwapnadeepMohapatra](https://github.com/swapnadeepmohapatra/swapnadeepmohapatra/blob/master/SwapnadeepGitHubArt.png)](https://projects.swapnadeep.com)
 
 <!--
 **swapnadeepmohapatra/swapnadeepmohapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![SwapnadeepMohapatra](https://github.com/swapnadeepmohapatra/swapnadeepmohapatra/blob/master/SwapnadeepGitHubArt.png)](https://projects.swapnadeep.com)
 
 Here are some ideas to get you started:
 
