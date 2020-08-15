@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on MERN Stack.
 - 📫 How to reach me: www.instagram.com/swapnadeep_mohapatra/
-- 😄 Pronouns: He / Her
+- 😄 Pronouns: He / His
 
 <!--
 **swapnadeepmohapatra/swapnadeepmohapatra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
