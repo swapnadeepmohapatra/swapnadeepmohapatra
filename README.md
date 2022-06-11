@@ -1,4 +1,4 @@
-### Hi everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px">
+### Hi everyone!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="22px" height="25px">
 
 [![SwapnadeepMohapatra](https://github.com/swapnadeepmohapatra/swapnadeepmohapatra/blob/master/SwapnadeepGitHubArt.png)](https://projects.swapnadeep.com)
 
