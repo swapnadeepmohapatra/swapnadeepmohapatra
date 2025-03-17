@@ -38,7 +38,9 @@
 
 Loved my projects?
 
-![image](https://github.com/user-attachments/assets/b89386eb-36e2-4e6c-b5f1-9c5aedfb60c6)
+<img width="500px" src="https://github.com/user-attachments/assets/b89386eb-36e2-4e6c-b5f1-9c5aedfb60c6"/>
+
+<!--![image](https://github.com/user-attachments/assets/b89386eb-36e2-4e6c-b5f1-9c5aedfb60c6)-->
 
 
 <!--
