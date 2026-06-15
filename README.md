@@ -3,16 +3,6 @@
 [![SwapnadeepMohapatra](https://github.com/swapnadeepmohapatra/swapnadeepmohapatra/blob/master/SwapnadeepGitHubArt.png)](https://projects.swapnadeep.com)
 
 
-
-- 🔭 I’m currently working on MERN Stack.
-- 😄 Pronouns: He / His
-
-<br>
-
-![Swapnadeep's Stats](https://github-readme-stats.vercel.app/api?username=swapnadeepmohapatra&show_icons=true&theme=radical&hide_border=true)
-
-![Swapnadeep's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swapnadeepmohapatra&layout=compact&theme=radical&hide_border=true)
-
 ### Connect with me<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
 <div>
